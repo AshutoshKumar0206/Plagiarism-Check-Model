@@ -1,4 +1,9 @@
+flask
+flask-cors
+pymupdf
 python-docx
 python-pptx
 scikit-learn
+numpy
+requests
 gunicorn
